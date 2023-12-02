@@ -22,7 +22,8 @@ title: Theme Strategy
 email: admin@themestrategy.com
 description: >- # this means to ignore newlines until "baseurl:"
   Plan your Strategy for using, customizing or building website themes.
-baseurl: "/themestrategy" # the subpath of your site, e.g. /blog
+# Commenting baseurl as we're using custom domain
+# baseurl: "/themestrategy" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: effective_tools
 github_username:  toolsforproductivity
